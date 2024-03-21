@@ -93,7 +93,7 @@ DELETE http://localhost:3001/items/65d0fe96c586a2f8bf280f6d
  
 
 ### Delete by all items FeedGuid
-This will delete all items in the database
+This will delete all items in the database that match the feedGuid
 
 **Example:**
 DELETE http://localhost:3001/items/byguid/bfd83193-932e-5ef0-b557-418769038ead
@@ -164,7 +164,7 @@ Content-Type: application/json
 ### Add tags by feedGuid/itemGuid
 Same as above but using feedGuid and itemGuid
 
-PATCH http://localhost:3001/items/addtags/ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b/ssssss
+PATCH http://localhost:3001/items/addtags/PATCH http://localhost:3001/items/addtags/05b75483-9f5b-5236-bd66-69e9d3e1b995/372c998-bbec-47fb-b266-f178dce6aba4
 
 Content-Type: application/json
 {

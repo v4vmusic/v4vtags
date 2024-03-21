@@ -23,7 +23,7 @@ dbad52b9-6253-4a9b-bfab-246b9e839815
 
 
 ### Get All Items by tag
-http://127.0.0.1:3001/items/bytag/rock
+http://127.0.0.1:3001/items/bytag/progressive%20metal
 
 ### Get All tags
 http://127.0.0.1:3001/tags/
@@ -42,7 +42,7 @@ Content-Type: application/json
 }
 
 ### Modify tags by feedGuid/itemGuid
-PATCH http://localhost:3001/items/addtags/ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b/ssssss
+PATCH http://localhost:3001/items/addtags/05b75483-9f5b-5236-bd66-69e9d3e1b995/372c998-bbec-47fb-b266-f178dce6aba4
 Content-Type: application/json
 
 {
