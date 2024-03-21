@@ -60,12 +60,13 @@ router.get("/gettags/", (req, res) => __awaiter(void 0, void 0, void 0, function
 router.patch('/addtags/:feedGuid/:itemGuid', urlencodedParser, jsonParser, getItemByGuids, (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     let item = res.item;
     if (req.body.tags != null && item != null) {
-        item.tags = sanitizeTags(req.body.tags);
-        // console.log("item " + JSON.stringify(item, null, 2));
+        item[0].tags = sanitizeTags(req.body.tags);
+        console.log("item " + JSON.stringify(item, null, 2));
     }
     try {
         if (item != null) {
-            const updatedItem = yield item.save();
+            console.log(item);
+            const updatedItem = yield item[0].save();
             res.json(updatedItem);
         }
     }
