@@ -1,7 +1,7 @@
 {
   "name": "v4vtags",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "An open api primarily for taxonimizing value for value(v4v) music in order to facilitate music search and discovery. While v4v music is this projects primary focus, other podcast:medium types may also be included.",
   "main": "server.js",
   "scripts": {
     "build": "rimraf dist && npx tsc",
