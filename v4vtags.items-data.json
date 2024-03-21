@@ -1,0 +1,1139 @@
+[{
+  "_id": {
+    "$oid": "65d0f19c2f9b54dc5c8481da"
+  },
+  "tags": [
+    "rock",
+    "blues",
+    "male vocals"
+  ],
+  "feedGuid": "dbad52b9-6253-4a9b-bfab-246b9e839815",
+  "itemGuid": "c971583d-0164-42d1-ba23-69c16ad997ab",
+  "artistName": "Jimmy V",
+  "imageURL": "https://music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/Wanderin-Jimmy_V-500.jpg",
+  "mp3URL": "https://op3.dev/e/ipfspodcasting.net/e/music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/Wonderin-Jimmy_V.mp3",
+  "synced": {
+    "$date": "2024-03-21T16:28:14.607Z"
+  },
+  "title": "Wonderin'"
+},
+{
+  "_id": {
+    "$oid": "65d0f19c2f9b54dc5c8481db"
+  },
+  "tags": [
+    "rock",
+    "blues",
+    "male vocals"
+  ],
+  "feedGuid": "dbad52b9-6253-4a9b-bfab-246b9e839815",
+  "itemGuid": "0b6a3889-87ee-432b-a7ee-f6bef65ca3c4",
+  "artistName": "Jimmy V",
+  "imageURL": "https://music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/Real_World-Jimmy_V-500.jpg",
+  "mp3URL": "https://op3.dev/e/ipfspodcasting.net/e/music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/Real_World-Jimmy_V.mp3",
+  "synced": {
+    "$date": "2024-03-21T16:28:14.610Z"
+  },
+  "title": "Real World"
+},
+{
+  "_id": {
+    "$oid": "65d0f19c2f9b54dc5c8481dc"
+  },
+  "tags": [
+    "rock",
+    "blues",
+    "male vocals"
+  ],
+  "feedGuid": "dbad52b9-6253-4a9b-bfab-246b9e839815",
+  "itemGuid": "fabc3e64-e470-4f97-bf4a-3957e481e23b",
+  "artistName": "Jimmy V",
+  "imageURL": "https://music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/Pour_Me_Some_Water-500.jpg",
+  "mp3URL": "https://op3.dev/e/ipfspodcasting.net/e/music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/Pour_Me_Some_Water.mp3",
+  "synced": {
+    "$date": "2024-03-21T16:28:14.612Z"
+  },
+  "title": "Pour Me Some Water"
+},
+{
+  "_id": {
+    "$oid": "65d0f19c2f9b54dc5c8481dd"
+  },
+  "tags": [
+    "rock",
+    "blues",
+    "male vocals"
+  ],
+  "feedGuid": "dbad52b9-6253-4a9b-bfab-246b9e839815",
+  "itemGuid": "bc80fa46-9563-48f0-b6df-5f9c847c7642",
+  "artistName": "Jimmy V",
+  "imageURL": "https://music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/Sweet_Time-Jimmy_V-500.jpg",
+  "mp3URL": "https://op3.dev/e/ipfspodcasting.net/e/music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/Sweet_Time-Jimmy_V.mp3",
+  "synced": {
+    "$date": "2024-03-21T16:28:14.614Z"
+  },
+  "title": "Sweet time"
+},
+{
+  "_id": {
+    "$oid": "65d0f19c2f9b54dc5c8481de"
+  },
+  "tags": [
+    "rock",
+    "punk",
+    "male vocals",
+    "motorhead"
+  ],
+  "feedGuid": "bfd83193-932e-5ef0-b557-418769038ead",
+  "itemGuid": "812689fc-fd76-4c5c-9cab-7023eb757d8a",
+  "artistName": "DOGS",
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/dba8685f-234d-4356-80ab-663fe60445a7.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/812689fc-fd76-4c5c-9cab-7023eb757d8a.mp3",
+  "synced": {
+    "$date": "2024-03-21T16:44:19.297Z"
+  },
+  "title": "No Quarter Asked/No Quarter Given"
+},
+{
+  "_id": {
+    "$oid": "65d0f19c2f9b54dc5c8481df"
+  },
+  "tags": [
+    "rock",
+    "punk",
+    "male vocals",
+    "motorhead"
+  ],
+  "feedGuid": "bfd83193-932e-5ef0-b557-418769038ead",
+  "itemGuid": "9c424f22-5010-4b51-9dec-44a1b606829e",
+  "artistName": "DOGS",
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/dba8685f-234d-4356-80ab-663fe60445a7.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/9c424f22-5010-4b51-9dec-44a1b606829e.mp3",
+  "synced": {
+    "$date": "2024-03-21T16:44:19.299Z"
+  },
+  "title": "Thunderballs"
+},
+{
+  "_id": {
+    "$oid": "65d0f19c2f9b54dc5c8481e0"
+  },
+  "tags": [
+    "rock",
+    "punk",
+    "male vocals",
+    "motorhead"
+  ],
+  "feedGuid": "bfd83193-932e-5ef0-b557-418769038ead",
+  "itemGuid": "647cc94d-d176-4287-bddf-8828ec446ab0",
+  "artistName": "DOGS",
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/dba8685f-234d-4356-80ab-663fe60445a7.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/647cc94d-d176-4287-bddf-8828ec446ab0.mp3",
+  "synced": {
+    "$date": "2024-03-21T16:44:19.295Z"
+  },
+  "title": "The Abuse"
+},
+{
+  "_id": {
+    "$oid": "65fba19f4005f7809ae672c0"
+  },
+  "tags": [
+    "metal",
+    "progressive metal",
+    "guitar",
+    "male vocals"
+  ],
+  "artistName": "Prismind",
+  "feedGuid": "05b75483-9f5b-5236-bd66-69e9d3e1b995",
+  "itemGuid": "c372c998-bbec-47fb-b266-f178dce6aba4",
+  "imageURL": "https://cdn.kolomona.com/podcasts/lightning-thrashes/bands/prismind/disciples-by-Design/album.jpg",
+  "mp3URL": "https://op3.dev/e/ipfspodcasting.net/e/cdn.kolomona.com/podcasts/lightning-thrashes/bands/prismind/disciples-by-Design/01-prismind-pawns_of_the_damned.mp3",
+  "albumName": "Disciples by Design",
+  "title": "Pawns of the Damned",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65fbbf19ca3a174a691d5aa6"
+  },
+  "tags": [
+    "spoken",
+    "haloween",
+    "male vocals",
+    "morbid",
+    "comedy"
+  ],
+  "artistName": "Kolomona Myer",
+  "feedGuid": "03f39d9f-1b25-5b35-bc6c-779e2155f106",
+  "itemGuid": "dbdc2432-6840-4ee4-a6db-da5e63e98e0b",
+  "imageURL": "https://cdn.kolomona.com/media/images/profiles/sunflower01.jpg",
+  "mp3URL": "https://cdn.kolomona.com/podcasts/lightning-thrashes/kolomona/screwing-around/Shadow-Rantings-KolomonaShow-s01e03.mp3",
+  "title": "Shadow Rantings",
+  "__v": 1,
+  "synced": {
+    "$date": "2024-03-21T16:30:29.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fbc164ca3a174a691d5ae8"
+  },
+  "tags": [
+    "gospel",
+    "male vocals",
+    "prayer"
+  ],
+  "artistName": "Jimmy V",
+  "feedGuid": "dbad52b9-6253-4a9b-bfab-246b9e839815",
+  "itemGuid": "0d8507ec-78d4-4294-bbc8-1548dde98cba",
+  "imageURL": "https://music.jimmyv4v.com/podcasts/outside-in/common/Stone-V-2.jpg",
+  "mp3URL": "https://op3.dev/e/ipfspodcasting.net/e/music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/for_those_without_a_prayer/for_those_without_a_prayer-jimmy_v.mp3",
+  "title": "For Those Without a Prayer",
+  "__v": 1,
+  "synced": {
+    "$date": "2024-03-21T16:28:14.597Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "65fbc23cca3a174a691d5af1"
+  },
+  "tags": [
+    "metal",
+    "progressive metal",
+    "guitar",
+    "male vocals"
+  ],
+  "artistName": "Prismind",
+  "feedGuid": "05b75483-9f5b-5236-bd66-69e9d3e1b995",
+  "itemGuid": "f47070a4-df2e-4b30-9b38-8c9f59a0fa0f",
+  "imageURL": "https://cdn.kolomona.com/podcasts/lightning-thrashes/bands/prismind/disciples-by-Design/album.jpg",
+  "mp3URL": "https://op3.dev/e/ipfspodcasting.net/e/cdn.kolomona.com/podcasts/lightning-thrashes/bands/prismind/disciples-by-Design/05-prismind-our_broken_fate.mp3",
+  "albumName": "Disciples by Design",
+  "title": "Our Broken Fate",
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "65fc5910e6901ae6e459dd63"
+  },
+  "tags": [
+    "rock",
+    "hard rock",
+    "grunge",
+    "male vocals"
+  ],
+  "feedGuid": "ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b",
+  "itemGuid": "c8b243f9-b07d-43bc-b404-cef5191518f7",
+  "synced": {
+    "$date": "2024-03-21T16:27:26.717Z"
+  },
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/997060e3-9dc1-4cd8-b3c1-3ae06d54bb03.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/c8b243f9-b07d-43bc-b404-cef5191518f7.mp3",
+  "artistName": "IROH",
+  "title": ". ( The Last Transmission? )",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5910e6901ae6e459dd67"
+  },
+  "tags": [
+    "rock",
+    "hard rock",
+    "grunge",
+    "male vocals"
+  ],
+  "feedGuid": "ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b",
+  "itemGuid": "d6e03686-7174-4a20-a32c-6db19cb828ee",
+  "synced": {
+    "$date": "2024-03-21T16:27:26.724Z"
+  },
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/997060e3-9dc1-4cd8-b3c1-3ae06d54bb03.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/d6e03686-7174-4a20-a32c-6db19cb828ee.mp3",
+  "artistName": "IROH",
+  "title": "Pedal Down ( feat. Rob Montgomery )",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5910e6901ae6e459dd6b"
+  },
+  "tags": [
+    "rock",
+    "hard rock",
+    "grunge",
+    "male vocals"
+  ],
+  "feedGuid": "ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b",
+  "itemGuid": "e27e511a-cb1a-48bf-8b4a-934012dc00cd",
+  "synced": {
+    "$date": "2024-03-21T16:27:26.726Z"
+  },
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/997060e3-9dc1-4cd8-b3c1-3ae06d54bb03.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/e27e511a-cb1a-48bf-8b4a-934012dc00cd.mp3",
+  "artistName": "IROH",
+  "title": "-..",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5910e6901ae6e459dd6f"
+  },
+  "tags": [
+    "rock",
+    "hard rock",
+    "grunge",
+    "male vocals"
+  ],
+  "feedGuid": "ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b",
+  "itemGuid": "b2be46be-a757-4bfb-8ecc-3fc89713cd44",
+  "synced": {
+    "$date": "2024-03-21T16:27:26.728Z"
+  },
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/997060e3-9dc1-4cd8-b3c1-3ae06d54bb03.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/b2be46be-a757-4bfb-8ecc-3fc89713cd44.mp3",
+  "artistName": "IROH",
+  "title": "They Ride",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5910e6901ae6e459dd73"
+  },
+  "tags": [
+    "rock",
+    "hard rock",
+    "grunge",
+    "male vocals"
+  ],
+  "feedGuid": "ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b",
+  "itemGuid": "02a39ca7-6d8b-418d-b392-5361e9a6e8ca",
+  "synced": {
+    "$date": "2024-03-21T16:27:26.730Z"
+  },
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/997060e3-9dc1-4cd8-b3c1-3ae06d54bb03.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/02a39ca7-6d8b-418d-b392-5361e9a6e8ca.mp3",
+  "artistName": "IROH",
+  "title": "..",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5910e6901ae6e459dd7b"
+  },
+  "tags": [
+    "rock",
+    "hard rock",
+    "grunge",
+    "male vocals"
+  ],
+  "feedGuid": "ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b",
+  "itemGuid": "f03a0e04-d172-4926-b578-55cab8f879d2",
+  "synced": {
+    "$date": "2024-03-21T16:27:26.734Z"
+  },
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/997060e3-9dc1-4cd8-b3c1-3ae06d54bb03.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/f03a0e04-d172-4926-b578-55cab8f879d2.mp3",
+  "artistName": "IROH",
+  "title": ".-.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5910e6901ae6e459dd7f"
+  },
+  "tags": [
+    "rock",
+    "hard rock",
+    "grunge",
+    "male vocals"
+  ],
+  "feedGuid": "ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b",
+  "itemGuid": "67c0bad0-eead-4502-8bd9-b78093ffe856",
+  "synced": {
+    "$date": "2024-03-21T16:27:26.736Z"
+  },
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/997060e3-9dc1-4cd8-b3c1-3ae06d54bb03.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/67c0bad0-eead-4502-8bd9-b78093ffe856.mp3",
+  "artistName": "IROH",
+  "title": "The Seed Man",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5910e6901ae6e459dd83"
+  },
+  "tags": [
+    "rock",
+    "hard rock",
+    "grunge",
+    "male vocals"
+  ],
+  "feedGuid": "ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b",
+  "itemGuid": "02575318-ab23-446b-9415-bf8638d84c45",
+  "synced": {
+    "$date": "2024-03-21T16:27:26.738Z"
+  },
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/997060e3-9dc1-4cd8-b3c1-3ae06d54bb03.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/02575318-ab23-446b-9415-bf8638d84c45.mp3",
+  "artistName": "IROH",
+  "title": "-.--",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5910e6901ae6e459dd87"
+  },
+  "tags": [
+    "rock",
+    "hard rock",
+    "grunge",
+    "male vocals"
+  ],
+  "feedGuid": "ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b",
+  "itemGuid": "493a41c0-fd75-400d-9ca2-ec4bb4cb6a5b",
+  "synced": {
+    "$date": "2024-03-21T16:27:26.740Z"
+  },
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/997060e3-9dc1-4cd8-b3c1-3ae06d54bb03.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/493a41c0-fd75-400d-9ca2-ec4bb4cb6a5b.mp3",
+  "artistName": "IROH",
+  "title": "In Exile",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5910e6901ae6e459dd8b"
+  },
+  "tags": [
+    "rock",
+    "hard rock",
+    "grunge",
+    "male vocals"
+  ],
+  "feedGuid": "ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b",
+  "itemGuid": "270e726f-0e9c-490c-9080-a99bb856dbb4",
+  "synced": {
+    "$date": "2024-03-21T16:27:26.742Z"
+  },
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/997060e3-9dc1-4cd8-b3c1-3ae06d54bb03.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/270e726f-0e9c-490c-9080-a99bb856dbb4.mp3",
+  "artistName": "IROH",
+  "title": ".",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5910e6901ae6e459dd8f"
+  },
+  "tags": [
+    "rock",
+    "hard rock",
+    "grunge",
+    "male vocals"
+  ],
+  "feedGuid": "ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b",
+  "itemGuid": "6fb40af1-f27a-4434-b93f-9e1111796950",
+  "synced": {
+    "$date": "2024-03-21T16:27:26.744Z"
+  },
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/997060e3-9dc1-4cd8-b3c1-3ae06d54bb03.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/6fb40af1-f27a-4434-b93f-9e1111796950.mp3",
+  "artistName": "IROH",
+  "title": "The Fever",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5910e6901ae6e459dd93"
+  },
+  "tags": [
+    "rock",
+    "hard rock",
+    "grunge",
+    "male vocals"
+  ],
+  "feedGuid": "ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b",
+  "itemGuid": "88b2f1b0-2d6c-4517-ad52-307a80ffb060",
+  "synced": {
+    "$date": "2024-03-21T16:27:26.745Z"
+  },
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/997060e3-9dc1-4cd8-b3c1-3ae06d54bb03.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/88b2f1b0-2d6c-4517-ad52-307a80ffb060.mp3",
+  "artistName": "IROH",
+  "title": "....",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5910e6901ae6e459dd97"
+  },
+  "tags": [
+    "rock",
+    "hard rock",
+    "grunge",
+    "male vocals"
+  ],
+  "feedGuid": "ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b",
+  "itemGuid": "78d2bd3b-0d77-4c3a-95d1-eda18a5be552",
+  "synced": {
+    "$date": "2024-03-21T16:27:26.747Z"
+  },
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/997060e3-9dc1-4cd8-b3c1-3ae06d54bb03.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/78d2bd3b-0d77-4c3a-95d1-eda18a5be552.mp3",
+  "artistName": "IROH",
+  "title": "Heaven Knows",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5910e6901ae6e459dd9b"
+  },
+  "tags": [
+    "rock",
+    "hard rock",
+    "grunge",
+    "male vocals"
+  ],
+  "feedGuid": "ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b",
+  "itemGuid": "d1d8bb2b-2848-4ece-a073-f200fd6ae93c",
+  "synced": {
+    "$date": "2024-03-21T16:27:26.749Z"
+  },
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/997060e3-9dc1-4cd8-b3c1-3ae06d54bb03.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/d1d8bb2b-2848-4ece-a073-f200fd6ae93c.mp3",
+  "artistName": "IROH",
+  "title": "-",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc5d0b9dee3f1a6a4d0633"
+  },
+  "tags": [
+    "rock",
+    "hard rock",
+    "grunge",
+    "male vocals"
+  ],
+  "feedGuid": "ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b",
+  "itemGuid": "001af25f-8475-40d9-a7b4-11f0f3b25dae",
+  "synced": {
+    "$date": "2024-03-21T16:27:26.732Z"
+  },
+  "imageURL": "https://d12wklypp119aj.cloudfront.net/image/997060e3-9dc1-4cd8-b3c1-3ae06d54bb03.jpg",
+  "mp3URL": "https://d12wklypp119aj.cloudfront.net/track/001af25f-8475-40d9-a7b4-11f0f3b25dae.mp3",
+  "artistName": "IROH",
+  "title": "Renfield",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc601e9cc78817b4eaf546"
+  },
+  "tags": [],
+  "feedGuid": "dbad52b9-6253-4a9b-bfab-246b9e839815",
+  "itemGuid": "5394bd93-7135-45f5-be8a-99f1be8c6915",
+  "synced": {
+    "$date": "2024-03-21T16:28:14.583Z"
+  },
+  "imageURL": "https://music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/so_do_i/so_do_i-jimmy_v.jpg",
+  "mp3URL": "https://op3.dev/e/ipfspodcasting.net/e/music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/so_do_i/so_do_i-jimmy_v.mp3",
+  "artistName": "Jimmy V",
+  "title": "So Do I",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc601e9cc78817b4eaf54a"
+  },
+  "tags": [],
+  "feedGuid": "dbad52b9-6253-4a9b-bfab-246b9e839815",
+  "itemGuid": "1085e34a-f1b8-4923-8523-285a64dc568b",
+  "synced": {
+    "$date": "2024-03-21T16:28:14.590Z"
+  },
+  "imageURL": "https://music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/ill_find_love/ill_find_love-jimmy_v.jpg",
+  "mp3URL": "https://op3.dev/e/ipfspodcasting.net/e/music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/ill_find_love/ill_find_love-jimmy_v.mp3",
+  "artistName": "Jimmy V",
+  "title": "I'll Find Love",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc601e9cc78817b4eaf54e"
+  },
+  "tags": [],
+  "feedGuid": "dbad52b9-6253-4a9b-bfab-246b9e839815",
+  "itemGuid": "13b9faaa-357e-4626-9e83-820bcef1cd8e",
+  "synced": {
+    "$date": "2024-03-21T16:28:14.593Z"
+  },
+  "imageURL": "https://music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/day_in_the_sun/day_in_the_sun-jimmy_v.jpg",
+  "mp3URL": "https://op3.dev/e/ipfspodcasting.net/e/music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/day_in_the_sun/day_in_the_sun-jimmy_v.mp3",
+  "artistName": "Jimmy V",
+  "title": "Day in the Sun",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc601e9cc78817b4eaf555"
+  },
+  "tags": [],
+  "feedGuid": "dbad52b9-6253-4a9b-bfab-246b9e839815",
+  "itemGuid": "65f1a2f5-ac0b-483c-98b4-58b19afb3cd9",
+  "synced": {
+    "$date": "2024-03-21T16:28:14.601Z"
+  },
+  "imageURL": "https://music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/Wanderin-Jimmy_V-500.jpg",
+  "mp3URL": "https://op3.dev/e/ipfspodcasting.net/e/music.jimmyv4v.com/bands/jimmy-v/jimmy-v-collection/so_pretty/so_pretty-jimmy_v.mp3",
+  "artistName": "Jimmy V",
+  "title": "So Pretty",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf56e"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "a15e8173-6cc5-40a1-8b44-57402bc4fc07",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.910Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/big-pine-song.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/big-pine-song.mp3",
+  "artistName": "The Doerfels",
+  "title": "Big Pine Song",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf572"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "50bc5e8f-050f-4f23-9255-96ec361059df",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.915Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/still-a-man.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/still-a-man.mp3",
+  "artistName": "The Doerfels",
+  "title": "Still A Man",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf576"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "40d92e5e-7846-4077-88f1-feac94c3b4d8",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.919Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/pour-over.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/pour-over.mp3",
+  "artistName": "The Doerfels",
+  "title": "Pour Over - CityBeach",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf57a"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "26071e5e-74f4-4dd6-bb4f-19bfa259801f",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.924Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/happy-new-year-demo.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/happy-new-year-demo.mp3",
+  "artistName": "The Doerfels",
+  "title": "Happy New Year(demo)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf57e"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "2658bf69-bd20-4b1c-8fa9-89c827cb5569",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.927Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/love-like-yours.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/love-like-yours.mp3",
+  "artistName": "The Doerfels",
+  "title": "Love Like Yours",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf582"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "22b9c60a-9ddd-4872-8877-671a201a711b",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.931Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/first-christmas-art.jpg",
+  "mp3URL": "https://www.doerfelverse.com/tracks/first-married-christmas.mp3",
+  "artistName": "The Doerfels",
+  "title": "First Married Christmas - CityBeach",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf586"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "ae930ad6-5966-4033-b17f-b4e39519701d",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.933Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/worth-fighting-for.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/worth-fighting-for.mp3",
+  "artistName": "The Doerfels",
+  "title": "Worth Fighting For",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf58a"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "2db7b882-50f9-47c3-8a3f-bbc1b13d568f",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.935Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/movie-art.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/movie.mp3",
+  "artistName": "The Doerfels",
+  "title": "The Movie I'll Never See",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf58e"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "be4da809-a7d3-42fb-aec9-7050144bf814",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.937Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/morning-love-art.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/morning-love.mp3",
+  "artistName": "The Doerfels",
+  "title": "Morning Love",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf592"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "9de8e45c-f543-4f6d-8e63-2482c22c9f66",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.939Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/bloodshot-lies-acoustic.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/bloodshot-lies-acoustic.mp3",
+  "artistName": "The Doerfels",
+  "title": "Bloodshot Lies(Acoustic)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf596"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "28b43b7e-2118-4835-add7-39abf048204e",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.940Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/you-feel-like-home-art.jpg",
+  "mp3URL": "https://www.doerfelverse.com/tracks/you-feel-like-home.mp3",
+  "artistName": "The Doerfels",
+  "title": "You Feel Like Home(CityBeach)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf59a"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "58c9b50a-6d5f-4dcd-90ae-e3a76a9d2c0e",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.942Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/sing-for-you.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/sing-for-you.mp3",
+  "artistName": "The Doerfels",
+  "title": "Sing For You",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf59e"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "eb69c0a1-c8b3-4898-8eef-af496d04a4e5",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.943Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/maybe-its-you-art.jpg",
+  "mp3URL": "https://www.doerfelverse.com/tracks/maybe-its-you.mp3",
+  "artistName": "The Doerfels",
+  "title": "Maybe It's You",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf5a2"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "2897c8bf-e276-4f52-9b52-eeb64d7e7e2d",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.944Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/kurtisdrums.jpg",
+  "mp3URL": "https://www.doerfelverse.com/tracks/call-me-medley.mp3",
+  "artistName": "The Doerfels",
+  "title": "Call Me Medley - Kurtisdrums",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf5a6"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "27663b18-4c67-4d48-9f69-1641cdbc1de1",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.945Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/way-in-my-life-art.jpg",
+  "mp3URL": "https://www.doerfelverse.com/tracks/way-in-my-life.mp3",
+  "artistName": "The Doerfels",
+  "title": "Way In My Life",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf5aa"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "82b4c004-9af4-4f8d-aff7-f033bba7429b",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.946Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/angel-beast-art.jpg",
+  "mp3URL": "https://www.doerfelverse.com/tracks/angel-beast.mp3",
+  "artistName": "The Doerfels",
+  "title": "Angel Beast",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf5ae"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "7f2eb92d-289e-4408-ac6c-47fea5905dc1",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.948Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/if-i-promise-art.jpeg",
+  "mp3URL": "https://www.doerfelverse.com/tracks/if-i-promise-demo-version.mp3",
+  "artistName": "The Doerfels",
+  "title": "If I Promise(Demo)",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf5b2"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "3bb9e8da-e11a-452b-beb4-c5192f46f5f7",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.949Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/bd-pulls-me-up.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/pulls-me-up.mp3",
+  "artistName": "The Doerfels",
+  "title": "Pulls Me Up - Ben Doerfel",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf5b6"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "92d2cd13-6474-41c6-b661-344f9412418e",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.950Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/come-back-to-me-art.jpeg",
+  "mp3URL": "https://www.doerfelverse.com/tracks/come-back-to-me.mp3",
+  "artistName": "The Doerfels",
+  "title": "Come Back To Me",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf5ba"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "7ccdb8b1-e9c1-474a-acc5-3afcbbc0f261",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.951Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/heartbreakart.jpg",
+  "mp3URL": "https://www.doerfelverse.com/tracks/heartbreak.mp3",
+  "artistName": "The Doerfels",
+  "title": "HEARTBREAK",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf5be"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "3aaaebf8-e10f-4058-82af-509b4a61689f",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.953Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/theydontknowart.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/theydontknow.mp3",
+  "artistName": "The Doerfels",
+  "title": "They Don't Know",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf5c2"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "fedb7f31-c90a-4aca-9ab8-87db350af674",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.955Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/thought-it-was-real-art.jpg",
+  "mp3URL": "https://www.doerfelverse.com/tracks/thought-it-was-real.mp3",
+  "artistName": "The Doerfels",
+  "title": "Thought It Was Real",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf5c6"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "b4c6270b-b6a5-4d11-b15b-251d450e2c9d",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.956Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/nostalgic.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/nostalgic.mp3",
+  "artistName": "The Doerfels",
+  "title": "NOSTALGIC - CityBeach",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf5ca"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "96dd07b1-04c3-4b1a-a5e0-1e0a5c1f8125",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.957Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/3-years-art.jpg",
+  "mp3URL": "https://www.doerfelverse.com/tracks/3-years.mp3",
+  "artistName": "The Doerfels",
+  "title": "3 Years",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf5ce"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "edde3926-bfa9-4432-abb7-9eeb115ec62c",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.959Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/figured-you-out-art.jpeg",
+  "mp3URL": "https://www.doerfelverse.com/tracks/figured-you-out.mp3",
+  "artistName": "The Doerfels",
+  "title": "Figured You Out",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf5d2"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "41339be2-3d61-4223-9641-3e7dd12be2b0",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.960Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/so-far-away-art.jpg",
+  "mp3URL": "https://www.doerfelverse.com/tracks/so-far-away.mp3",
+  "artistName": "The Doerfels",
+  "title": "So Far Away",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf5d6"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "eb6dd6e5-c960-4d5f-ae26-0e3dec7af1f0",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.962Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/dont-forget-me-art.jpg",
+  "mp3URL": "https://www.doerfelverse.com/tracks/dont-forget-me.mp3",
+  "artistName": "The Doerfels",
+  "title": "Don't Forget Me",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc61289cc78817b4eaf5da"
+  },
+  "tags": [],
+  "feedGuid": "2b62ef49-fcff-523c-b81a-0a7dde2b0609",
+  "itemGuid": "d62bfa8f-657f-4a9c-ab13-eaf933286547",
+  "synced": {
+    "$date": "2024-03-21T16:42:48.963Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/bloodshot-lies-art.jpg",
+  "mp3URL": "https://www.doerfelverse.com/tracks/bloodshot-lies.mp3",
+  "artistName": "The Doerfels",
+  "title": "Bloodshot Lies",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc63ba8b629251b97b0b4c"
+  },
+  "tags": [],
+  "feedGuid": "1bb0f289-877b-5460-ab92-f8e25a2d4c89",
+  "itemGuid": "433c0f38-ea61-4c11-9398-703541922db1",
+  "synced": {
+    "$date": "2024-03-21T16:43:38.093Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/dfbv1.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/play-guitar.mp3",
+  "artistName": "Doerfel Family Bluegrass",
+  "title": "Play Guitar",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc63ba8b629251b97b0b50"
+  },
+  "tags": [],
+  "feedGuid": "1bb0f289-877b-5460-ab92-f8e25a2d4c89",
+  "itemGuid": "8bb1b817-aba4-441e-9e75-0d23a7bb43d1",
+  "synced": {
+    "$date": "2024-03-21T16:43:38.096Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/dfbv1.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/ben-cheetah.mp3",
+  "artistName": "Doerfel Family Bluegrass",
+  "title": "Ben Cheetah",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc63ba8b629251b97b0b54"
+  },
+  "tags": [],
+  "feedGuid": "1bb0f289-877b-5460-ab92-f8e25a2d4c89",
+  "itemGuid": "29bdc022-4f6a-4c45-a24f-252bb9e78643",
+  "synced": {
+    "$date": "2024-03-21T16:43:38.098Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/dfbv1.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/die-from-love.mp3",
+  "artistName": "Doerfel Family Bluegrass",
+  "title": "Die From Love",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc63ba8b629251b97b0b58"
+  },
+  "tags": [],
+  "feedGuid": "1bb0f289-877b-5460-ab92-f8e25a2d4c89",
+  "itemGuid": "73a9c048-f81f-4a41-8ec6-56a2fe503d95",
+  "synced": {
+    "$date": "2024-03-21T16:43:38.099Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/dfbv1.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/islamorada.mp3",
+  "artistName": "Doerfel Family Bluegrass",
+  "title": "Islamorada",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc63ba8b629251b97b0b5c"
+  },
+  "tags": [],
+  "feedGuid": "1bb0f289-877b-5460-ab92-f8e25a2d4c89",
+  "itemGuid": "8f111104-cf0f-4838-903e-6aad2a89f92a",
+  "synced": {
+    "$date": "2024-03-21T16:43:38.100Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/dfbv1.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/sparrow.mp3",
+  "artistName": "Doerfel Family Bluegrass",
+  "title": "His Eye is on the Sparrow",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65fc63ba8b629251b97b0b60"
+  },
+  "tags": [],
+  "feedGuid": "1bb0f289-877b-5460-ab92-f8e25a2d4c89",
+  "itemGuid": "83b90204-2b30-4954-b273-f1ae5053c0ed",
+  "synced": {
+    "$date": "2024-03-21T16:43:38.102Z"
+  },
+  "imageURL": "https://www.doerfelverse.com/art/dfbv1.png",
+  "mp3URL": "https://www.doerfelverse.com/tracks/big-pine.mp3",
+  "artistName": "Doerfel Family Bluegrass",
+  "title": "Big Pine",
+  "__v": 0
+}]

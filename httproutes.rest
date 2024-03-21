@@ -1,0 +1,68 @@
+### Delete by ID
+DELETE http://localhost:3001/items/65d0fe96c586a2f8bf280f6d
+
+### Delete by all items FeedGuid
+DELETE http://localhost:3001/items/byguid/bfd83193-932e-5ef0-b557-418769038ead
+
+### Get all items
+http://127.0.0.1:3001/items/
+
+### Get one Item by ID
+http://127.0.0.1:3001/items/65d0f19c2f9b54dc5c8481e0
+
+### Get Item by feedGuid/itemGuid - Prismind
+http://127.0.0.1:3001/items/byGuid/05b75483-9f5b-5236-bd66-69e9d3e1b995/c372c998-bbec-47fb-b266-f178dce6aba4
+
+### Get Item by feedGuid/itemGuid
+http://127.0.0.1:3001/items/byGuid/05b75483-9f5b-5236-bd66-69e9d3e1b995/f47070a4-df2e-4b30-9b38-8c9f59a0fa0f
+
+
+### Get all Items by feedGuid
+http://127.0.0.1:3001/items/byGuid/bfd83193-932e-5ef0-b557-418769038ead
+dbad52b9-6253-4a9b-bfab-246b9e839815
+
+
+### Get All Items by tag
+http://127.0.0.1:3001/items/bytag/rock
+
+### Get All tags
+http://127.0.0.1:3001/tags/
+
+### Modify tags by ID
+PATCH http://localhost:3001/items/addtags/65d0fe96c586a2f8bf280f6d
+Content-Type: application/json
+
+{
+    "tags": [
+      "Spoken",
+      "HaloWeen",
+      "male vocals",
+      "Kolomona"
+    ]
+}
+
+### Modify tags by feedGuid/itemGuid
+PATCH http://localhost:3001/items/addtags/ad6bfff9-4d5e-54ef-b5d3-dcc6eaf26e3b/ssssss
+Content-Type: application/json
+
+{
+    "tags": [
+      "metal",
+      "progressive metal",
+      "guitar",
+      "male vocals"
+    ]
+}
+
+### Modify tags by feedGuid
+PATCH http://localhost:3001/items/addtagsbyfeedguid/bfd83193-932e-5ef0-b557-418769038ead
+Content-Type: application/json
+
+{
+    "tags": [
+      "Rock",
+      "Hard Rock",
+      "grunge",
+      "male vocals"
+    ]
+}
