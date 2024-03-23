@@ -116,7 +116,7 @@ router.delete('/:id', getItem, (req, res) => __awaiter(void 0, void 0, void 0, f
     }
 }));
 router.delete('/byguid/:feedGuid', (req, res) => __awaiter(void 0, void 0, void 0, function* () {
-    try {
+    try { // sanitize user input
         const items = yield item_1.Item.deleteMany({ feedGuid: req.params.feedGuid });
         res.json({ message: `Deleted ${items.deletedCount} items from the database` });
     }
@@ -276,6 +276,7 @@ function getItemByTags(req, res, next) {
     });
 }
 function sanitizeTags(tags) {
+    //TODO: better sanitization, johnny drop table
     let sanitized = [];
     for (let i = 0; i < tags.length; i++) {
         sanitized[i] = tags[i].toLowerCase();

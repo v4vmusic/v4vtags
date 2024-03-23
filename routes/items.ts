@@ -2,8 +2,6 @@ import express, { Router, Request, Response } from "express";
 const router: Router = express.Router();
 import { Item } from "../models/item";
 import PodcastIndex from "../util/podcastindex/podcastindex";
-import { sourceMapsEnabled } from "process";
-import { log } from "console";
 import bodyParser from "body-parser";
 
 
@@ -122,7 +120,7 @@ router.delete('/:id', getItem, async (req, res: any) => {
 });
 
 router.delete('/byguid/:feedGuid', async (req: any, res: any) => {
-    try {
+    try {        // sanitize user input
         const items = await Item.deleteMany({ feedGuid: req.params.feedGuid });
         res.json({ message: `Deleted ${items.deletedCount} items from the database` });
     } catch (error: any) {
@@ -281,6 +279,7 @@ async function getItemByTags(req: Request, res: any, next: Function) {
 
 
 function sanitizeTags(tags: string[]) {
+    //TODO: better sanitization, johnny drop table
     let sanitized = [];
     for (let i = 0; i < tags.length; i++) {
         sanitized[i] = tags[i].toLowerCase();

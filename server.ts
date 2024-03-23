@@ -3,6 +3,9 @@ import dotenv  from "dotenv"
 import mongoose, { ConnectOptions } from "mongoose";
 import itemsRouter from './routes/items.js';
 import tagsRouter from './routes/tags.js';
+import cors from 'cors';
+
+
 
 dotenv.config();
 
@@ -17,7 +20,7 @@ const db = mongoose.connection;
 db.on('error', (error) => console.error(error));
 db.once('open', () => console.log('Connected to Database'));
 
-
+app.use(cors());
 app.use('/items', itemsRouter);
 app.use('/tags', tagsRouter);
 app.listen(port, () => {
