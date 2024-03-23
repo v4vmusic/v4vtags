@@ -19,6 +19,6 @@ const item_1 = require("../models/item");
 router.get("/", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     console.log("getting all unique tags in the database");
     const tags = yield item_1.Item.find({ tags: { $ne: null } }).distinct('tags');
-    res.send(tags);
+    res.setHeader('Access-Control-Allow-Origin', '*').send(tags);
 }));
 exports.default = router;

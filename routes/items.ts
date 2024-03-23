@@ -21,7 +21,7 @@ router.get("/", async (req, res) => {
 router.get('/:id', getItem, async (req, res: any) => {
     console.log("Finging item: " + req.params.id);
     try {
-        res.send(res.item);
+        res.setHeader('Access-Control-Allow-Origin', '*').send(res.item);
     } catch (error: any) {
         res.status(500).json({ message: error.message });
     }
@@ -30,19 +30,19 @@ router.get('/:id', getItem, async (req, res: any) => {
 // get one item by feedGuid/itemGuid
 router.get("/byguid/:feedGuid/:itemGuid", getItemByGuids, async (req, res) => {
     const item = await Item.findOne({ feedGuid: req.params.feedGuid, itemGuid: req.params.itemGuid });
-    res.send(item);
+    res.setHeader('Access-Control-Allow-Origin', '*').send(item);
 });
 
 // get items by feedGuid
 router.get("/byguid/:feedGuid", getItemsByFeedGuid, async (req, res) => {
     const items = await Item.find({ feedGuid: req.params.feedGuid });
-    res.send(items);
+    res.setHeader('Access-Control-Allow-Origin', '*').send(items);
 });
 
 // get items by tags
 router.get("/bytag/:tag", getItemByTags, async (req, res) => {
     const items = await Item.find({ tags: req.params.tag });
-    res.send(items);
+    res.setHeader('Access-Control-Allow-Origin', '*').send(items);
 });
 
 // get all tags
@@ -50,7 +50,7 @@ router.get("/gettags/", async (req, res) => {
     console.log("getting all unique tags in the database");
     
     const items = await Item.find({ tags: { $ne: null } }).distinct('tags');
-    res.send(items);
+    res.setHeader('Access-Control-Allow-Origin', '*').send(items);
 });
 
 // update

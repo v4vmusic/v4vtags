@@ -29,7 +29,7 @@ router.get("/", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
 router.get('/:id', getItem, (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     console.log("Finging item: " + req.params.id);
     try {
-        res.send(res.item);
+        res.setHeader('Access-Control-Allow-Origin', '*').send(res.item);
     }
     catch (error) {
         res.status(500).json({ message: error.message });
@@ -38,23 +38,23 @@ router.get('/:id', getItem, (req, res) => __awaiter(void 0, void 0, void 0, func
 // get one item by feedGuid/itemGuid
 router.get("/byguid/:feedGuid/:itemGuid", getItemByGuids, (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     const item = yield item_1.Item.findOne({ feedGuid: req.params.feedGuid, itemGuid: req.params.itemGuid });
-    res.send(item);
+    res.setHeader('Access-Control-Allow-Origin', '*').send(item);
 }));
 // get items by feedGuid
 router.get("/byguid/:feedGuid", getItemsByFeedGuid, (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     const items = yield item_1.Item.find({ feedGuid: req.params.feedGuid });
-    res.send(items);
+    res.setHeader('Access-Control-Allow-Origin', '*').send(items);
 }));
 // get items by tags
 router.get("/bytag/:tag", getItemByTags, (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     const items = yield item_1.Item.find({ tags: req.params.tag });
-    res.send(items);
+    res.setHeader('Access-Control-Allow-Origin', '*').send(items);
 }));
 // get all tags
 router.get("/gettags/", (req, res) => __awaiter(void 0, void 0, void 0, function* () {
     console.log("getting all unique tags in the database");
     const items = yield item_1.Item.find({ tags: { $ne: null } }).distinct('tags');
-    res.send(items);
+    res.setHeader('Access-Control-Allow-Origin', '*').send(items);
 }));
 // update
 router.patch('/addtags/:feedGuid/:itemGuid', urlencodedParser, jsonParser, getItemByGuids, (req, res) => __awaiter(void 0, void 0, void 0, function* () {

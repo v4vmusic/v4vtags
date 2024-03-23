@@ -9,6 +9,12 @@ const dotenv_1 = __importDefault(require("dotenv"));
 const mongoose_1 = __importDefault(require("mongoose"));
 const items_js_1 = __importDefault(require("./routes/items.js"));
 const tags_js_1 = __importDefault(require("./routes/tags.js"));
+const cors_1 = __importDefault(require("cors"));
+// configure cors to allow any origin
+const corsOptions = {
+    origin: '*',
+    optionsSuccessStatus: 200
+};
 dotenv_1.default.config();
 const app = (0, express_1.default)();
 const host = process.env.HOST;
@@ -18,6 +24,7 @@ mongoose_1.default.connect(databaseURL, {});
 const db = mongoose_1.default.connection;
 db.on('error', (error) => console.error(error));
 db.once('open', () => console.log('Connected to Database'));
+app.use((0, cors_1.default)());
 app.use('/items', items_js_1.default);
 app.use('/tags', tags_js_1.default);
 app.listen(port, () => {
