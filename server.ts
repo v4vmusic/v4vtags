@@ -5,7 +5,11 @@ import itemsRouter from './routes/items.js';
 import tagsRouter from './routes/tags.js';
 import cors from 'cors';
 
-
+// configure cors to allow any origin
+const corsOptions = {
+    origin: '*',
+    optionsSuccessStatus: 200
+}
 
 dotenv.config();
 

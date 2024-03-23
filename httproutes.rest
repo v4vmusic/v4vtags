@@ -42,15 +42,14 @@ Content-Type: application/json
 }
 
 ### Modify tags by feedGuid/itemGuid
-PATCH http://localhost:3001/items/addtags/05b75483-9f5b-5236-bd66-69e9d3e1b995/372c998-bbec-47fb-b266-f178dce6aba4
+PATCH http://localhost:3001/items/addtags/2b62ef49-fcff-523c-b81a-0a7dde2b0609/22b9c60a-9ddd-4872-8877-671a201a711b
 Content-Type: application/json
 
 {
     "tags": [
-      "metal",
-      "progressive metal",
-      "guitar",
-      "male vocals"
+      "Christmas",
+      "lofi",
+      "female vocals"
     ]
 }
 
