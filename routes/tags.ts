@@ -8,7 +8,7 @@ router.get("/", async (req, res) => {
     console.log("getting all unique tags in the database");
     
     const tags = await Item.find({ tags: { $ne: null } }).distinct('tags');
-    res.send(tags).setHeader('Access-Control-Allow-Origin', '*');
+    res.setHeader('Access-Control-Allow-Origin', '*').send(tags);
 });
 
 
