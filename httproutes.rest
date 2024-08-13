@@ -1,35 +1,34 @@
 ### Delete by ID
-DELETE http://localhost:3001/items/65d0fe96c586a2f8bf280f6d
+DELETE https://tags.v4vmusic.com/items/65d0fe96c586a2f8bf280f6d
 
 ### Delete by all items FeedGuid
-DELETE http://localhost:3001/items/byguid/bfd83193-932e-5ef0-b557-418769038ead
+DELETE https://tags.v4vmusic.com/items/byguid/0a8495bd-9b8f-5e6b-b522-f5b986d5faac
 
 ### Get all items
-http://127.0.0.1:3001/items/
+https://tags.v4vmusic.com/items/
 
 ### Get one Item by ID
-http://127.0.0.1:3001/items/65d0f19c2f9b54dc5c8481e0
+https://tags.v4vmusic.com/items/65d0f19c2f9b54dc5c8481e0
 
 ### Get Item by feedGuid/itemGuid - Prismind
-http://127.0.0.1:3001/items/byGuid/05b75483-9f5b-5236-bd66-69e9d3e1b995/c372c998-bbec-47fb-b266-f178dce6aba4
+https://tags.v4vmusic.com/items/byGuid/05b75483-9f5b-5236-bd66-69e9d3e1b995/c372c998-bbec-47fb-b266-f178dce6aba4
 
 ### Get Item by feedGuid/itemGuid
-http://127.0.0.1:3001/items/byGuid/05b75483-9f5b-5236-bd66-69e9d3e1b995/f47070a4-df2e-4b30-9b38-8c9f59a0fa0f
+https://tags.v4vmusic.com/items/byGuid/05b75483-9f5b-5236-bd66-69e9d3e1b995/f47070a4-df2e-4b30-9b38-8c9f59a0fa0f
 
 
 ### Get all Items by feedGuid
-http://127.0.0.1:3001/items/byGuid/bfd83193-932e-5ef0-b557-418769038ead
-dbad52b9-6253-4a9b-bfab-246b9e839815
+https://tags.v4vmusic.com/items/byGuid/e8c436f7-232e-529d-8354-64540a77b2d8
 
 
 ### Get All Items by tag
-http://127.0.0.1:3001/items/bytag/progressive%20metal
+https://tags.v4vmusic.com/items/bytag/progressive%20metal
 
 ### Get All tags
-http://127.0.0.1:3001/tags/
+https://tags.v4vmusic.com/tags/
 
 ### Modify tags by ID
-PATCH http://localhost:3001/items/addtags/65d0fe96c586a2f8bf280f6d
+PATCH https://tags.v4vmusic.com/items/addtags/65d0fe96c586a2f8bf280f6d
 Content-Type: application/json
 
 {
@@ -42,7 +41,7 @@ Content-Type: application/json
 }
 
 ### Modify tags by feedGuid/itemGuid
-PATCH http://localhost:3001/items/addtags/2b62ef49-fcff-523c-b81a-0a7dde2b0609/22b9c60a-9ddd-4872-8877-671a201a711b
+PATCH https://tags.v4vmusic.com/items/addtags/2b62ef49-fcff-523c-b81a-0a7dde2b0609/22b9c60a-9ddd-4872-8877-671a201a711b
 Content-Type: application/json
 
 {
@@ -54,14 +53,39 @@ Content-Type: application/json
 }
 
 ### Modify tags by feedGuid
-PATCH http://localhost:3001/items/addtagsbyfeedguid/bfd83193-932e-5ef0-b557-418769038ead
+PATCH https://tags.v4vmusic.com/items/addtagsbyfeedguid/0a8495bd-9b8f-5e6b-b522-f5b986d5faac
 Content-Type: application/json
 
 {
     "tags": [
-      "Rock",
-      "Hard Rock",
-      "grunge",
-      "male vocals"
+      "Metal",
+      "tacoma",
+      "demu"
     ]
 }
+
+########## Redo Tags #################
+
+### Get all Items by feedGuid
+https://tags.v4vmusic.com/items/byGuid/03f39d9f-1b25-5b35-bc6c-779e2155f106
+
+### Delete by all items FeedGuid
+DELETE https://tags.v4vmusic.com/items/byguid/03f39d9f-1b25-5b35-bc6c-779e2155f106
+
+### Get all Items by feedGuid
+https://tags.v4vmusic.com/items/byGuid/03f39d9f-1b25-5b35-bc6c-779e2155f106
+
+### Modify tags by feedGuid
+PATCH https://tags.v4vmusic.com/items/addtagsbyfeedguid/03f39d9f-1b25-5b35-bc6c-779e2155f106
+Content-Type: application/json
+
+{
+    "tags": [
+      "Hard Rock",
+      "grunge",
+      "Rock"
+    ]
+}
+
+### Get all Items by feedGuid
+https://tags.v4vmusic.com/items/byGuid/03f39d9f-1b25-5b35-bc6c-779e2155f106
